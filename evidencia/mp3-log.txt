@@ -1,0 +1,7 @@
+*   4a8be20 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from krmncc/feature/retiros
+|\  
+| * 2541edf Dice cuántos retiros fueron gratis
+| * cc237f5 Muestra el número de retiros
+|/  
+* fb749dd MP-1: mi nombre en el estado de cuenta
+* 5cd6012 MP-0: la cuenta bancaria
